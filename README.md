@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi! I'm Santiago Viscoso 👋
 
-<!--
-**SamSepiol-CS2/SamSepiol-CS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated profile views counter -->
+<p align="left">
+  <img src="https://glitch.me" alt="Profile Views Counter" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ About Me
+- 🎓 **Cybersecurity** Student.
+- 🐍 Focused on development and automation with **Python**.
+- 🚀 Building custom scripts and tools in my free time.
+
+### 💻 Technologies & Tools
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Linux" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+</p>
