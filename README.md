@@ -1,13 +1,14 @@
 # Hi! I'm Santiago Viscoso 👋
 
-![Views](https://glitch.me)
+👨‍💻 **Python Dev** | 🛡️ **Cybersecurity Student**
 
 ---
 
-### 🛡️ About Me
-- 🎓 **Cybersecurity** Student.
-- 🐍 Focused on development and automation with **Python**.
-- 🚀 Building custom scripts and tools in my free time.
+### 👤 About Me
+- 🎓 Currently studying **Cybersecurity**.
+- 🐍 Focused on software development and automation with **Python**.
+- 🚀 Building custom scripts, automation tools, and personal projects in my free time.
 
-### 💻 Technologies & Tools
-![Python](https://shields.io) ![Linux](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io)
+### 💻 Technologies & Core Skills
+- 📊 **Languages & Tools:** Python `[🐍]` | Linux `[🐧]` | Git `[🗂️]` | GitHub `[🐙]`
+- ⚙️ **Focus:** Task Automation | Software Development | Custom Scripting
