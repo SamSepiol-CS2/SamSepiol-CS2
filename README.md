@@ -1,9 +1,6 @@
 # Hi! I'm Santiago Viscoso 👋
 
-<!-- Animated profile views counter -->
-<p align="left">
-  <img src="https://glitch.me" alt="Profile Views Counter" />
-</p>
+![Profile Views Counter](https://glitch.me)
 
 ---
 
@@ -13,9 +10,5 @@
 - 🚀 Building custom scripts and tools in my free time.
 
 ### 💻 Technologies & Tools
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Linux" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-</p>
+
+![Python](https://shields.io) ![Linux](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io)
